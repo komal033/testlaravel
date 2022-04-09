@@ -7,9 +7,9 @@ use Illuminate\Database\Eloquent\Model;
 
 class test extends Model
 {
-  public static  function index()
+  public static  function index() 
   {
-      $abc="welcome";
+      $abc=" wel come";
       return $abc; 
   }
 }

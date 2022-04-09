@@ -9,7 +9,7 @@ class test extends Model
 {
   public static  function index() 
   {
-      $abc=" wel come";
+      $abc=" welcome";
       return $abc; 
   }
 }
